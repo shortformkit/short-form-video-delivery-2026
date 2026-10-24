@@ -1,0 +1,130 @@
+{
+ "n_total": 135,
+ "n_failed": 0,
+ "measured_from": "2026-10-12",
+ "measured_to": "2026-10-12",
+ "accounts": [
+  "BBC Derby",
+  "BBC News",
+  "BBC Weather",
+  "ESPN",
+  "GoPro",
+  "Jessica Meir",
+  "Khabane Lame",
+  "MrBeast",
+  "NASA",
+  "NASA Administrator Jared Isaacman",
+  "NASA’s Johnson Space Center",
+  "National Geographic",
+  "National Geographic Science",
+  "Red Bull",
+  "espn",
+  "gopro",
+  "khaby.lame",
+  "nasa",
+  "natgeo",
+  "redbull"
+ ],
+ "platforms": {
+  "instagram": {
+   "name": "Instagram Reels",
+   "n": 51,
+   "res": {
+    "1440": 4,
+    "1080": 90,
+    "720": 6
+   },
+   "share_1080_or_more": 94,
+   "share_above_1080": 4,
+   "best_codec": {
+    "vp09": 100
+   },
+   "h264_at_best": 0,
+   "median_video_kbps": 2115.1,
+   "fps": {},
+   "fps_known": 0,
+   "median_audio_kbps": 62.9,
+   "lufs_median": -14.1,
+   "lufs_min": -49.4,
+   "lufs_max": -14.0,
+   "lufs_within_1_of_14": 92,
+   "lufs_louder_than_12": 0,
+   "lufs_n": 50,
+   "silent": 1,
+   "lufs_p10": -15.0,
+   "lufs_p90": -14.1,
+   "tp_median": -0.8,
+   "tp_over_minus1": 82,
+   "median_duration": null
+  },
+  "tiktok": {
+   "name": "TikTok",
+   "n": 42,
+   "res": {
+    "1080": 76,
+    "720": 24
+   },
+   "share_1080_or_more": 76,
+   "share_above_1080": 0,
+   "best_codec": {
+    "h265": 88,
+    "h264": 12
+   },
+   "h264_at_best": 12,
+   "median_video_kbps": 1106.5,
+   "fps": {},
+   "fps_known": 0,
+   "median_audio_kbps": null,
+   "lufs_median": -21.2,
+   "lufs_min": -50.1,
+   "lufs_max": -8.1,
+   "lufs_within_1_of_14": 10,
+   "lufs_louder_than_12": 2,
+   "lufs_n": 42,
+   "silent": 0,
+   "lufs_p10": -27.5,
+   "lufs_p90": -15.0,
+   "tp_median": -6.6,
+   "tp_over_minus1": 24,
+   "median_duration": 26.5
+  },
+  "youtube": {
+   "name": "YouTube Shorts",
+   "n": 42,
+   "res": {
+    "2160": 19,
+    "1080": 74,
+    "720": 2,
+    "540": 5
+   },
+   "share_1080_or_more": 93,
+   "share_above_1080": 19,
+   "best_codec": {
+    "vp09": 81,
+    "avc1": 19
+   },
+   "h264_at_best": 81,
+   "median_video_kbps": 5721.6,
+   "fps": {
+    "30": 62,
+    "24": 14,
+    "25": 12,
+    "60": 12
+   },
+   "fps_known": 42,
+   "median_audio_kbps": 129.8,
+   "lufs_median": -19.6,
+   "lufs_min": -54.0,
+   "lufs_max": -6.1,
+   "lufs_within_1_of_14": 7,
+   "lufs_louder_than_12": 22,
+   "lufs_n": 41,
+   "silent": 1,
+   "lufs_p10": -24.4,
+   "lufs_p90": -10.8,
+   "tp_median": -2.2,
+   "tp_over_minus1": 34,
+   "median_duration": 35.5
+  }
+ }
+}
